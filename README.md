@@ -9,3 +9,16 @@ We concluded that a Canadian investor subject to Canadian interest rates would i
 Under banking regulations, banks are required to set aside economic capital for risk management. For a portfolio of bonds, the risk is credit risk. Thus we computed the capital requirements and provision for this portfolio. We first derived risk components according to the OSFI capital adequacy guideline using the Foundation Internal Rating Based (F-IRB) approach. Specifically, the Probability of Default (PD) was simulated using the log-normal distribution, and LGD was mapped from the seniority of the bonds. We then applied the capital requirement equation to individual bonds to get the capital requirements, which were then aggregated to the portfolio level. The provision was calculated similarly.
 
 We analyzed the distribution of the capital requirement and the provision using descriptive statistics. We found that for $100 exposure to a portfolio of bonds, the bank needs to set aside $9.82 ~ $9.93 as economic capital, and $0.46 ~ $0.48 as provision. We further analyzed each rating’s contribution to the total capital requirement. CC bonds contributed the most: for $1 exposure to them, $0.64 was an unexpected loss and thus needed to be set aside as regulatory capital. This result is useful for regulatory compliance, capital budgeting, and portfolio performance measurement. To get accurate risk-free rates at different times, we interpolated the yield curves using quadratic interpolation.
+
+### License and Usage Terms
+This repository and its contents are © 2025 Miles Xi. All rights reserved.
+
+You are welcome to: <br>
+• View and use the code and materials directly via this GitHub repository <br>
+• Use the code for educational or non-commercial personal projects, as long as you do so through GitHub
+
+However, you may not: <br>
+• Rehost, mirror, or redistribute this repository or any part of its content on third-party websites or platforms <br>
+• Use any automated means (e.g., scraping tools or bots) to copy or mirror the repository or its contents elsewhere
+
+Unauthorized redistribution or rehosting is strictly prohibited. Please contact me for permission if needed.
