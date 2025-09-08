@@ -10,6 +10,10 @@ Under banking regulations, banks are required to set aside regulatory capital fo
 
 We analyzed the distribution of the capital requirement and the provision using descriptive statistics. We found that for $100 exposure to a portfolio of bonds, the bank needs to set aside $3.21 ~ $3.26 as capital, and $0.123 ~ $0.129 as provision. We further analyzed each rating’s contribution to the total capital requirement. CC bonds contributed the most: for $1 exposure to them, $0.18 was unexpected loss and thus needed to be set aside as regulatory capital. This result is useful for capital budgeting and portfolio performance measurement.
 
+### Main references
+1. FM 9528 Banking Analytics lecture slides
+2. [OSFI CAR Guideline Chap 5: Credit Risk – Internal Ratings-Based Approach](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2024-chapter-5-credit-risk-internal-ratings-based-approach)
+
 
 ### License and Usage Terms
 This repository and its contents are © 2025 Miles Xi. All rights reserved.
